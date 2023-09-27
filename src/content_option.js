@@ -1,144 +1,135 @@
-const logotext = "JOHN";
+const logotext = "Sammy";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Ifaduola Samuel",
+    description: "I’m Ifaduola Samuel  Software Engineer ,currently working in Lagos", 
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Ifaduola Samuel",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
-        third: "I develop mobile apps",
+        third: "I love drone piloting",
+        four: "I love video editing",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I'm a Frontend Developer that works mainly with React Gatsby. In my projects",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm a Frontend Developer that works mainly with React Batsby. In my projects.Front end engineers plan, design, build, and implement the user interface systems of websites, software programs, and web-based applications. Their primary goal is to provide a satisfactory user experience with no issues, errors, or downtime. They create and optimize systems, play an active role in testing and troubleshooting, and resolve issues such as those related to accessibility and browser compatibility. They often serve as an intermediary bridging the gap between the user and the backend developers, and tweak tools and platforms to adapt to real-world use situations.",
 };
+
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    jobtitle: "Frontend Engineer",
+    where: "Lagos Nigeria",
+    date: "2017",
+},
+{
+    jobtitle: "Video Editing",
+    where: "Lagos Nigeria",
+    date: "2019",
+},
+{
+    jobtitle: "Drone Piloting",
+    where: "Lagos Nigeria",
+    date: "2020",
+},
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
-    },
+    name: "Javascript",
+    value: 90,
+},
+{
+    name: "React",
+    value: 85,
+},
+{
+    name: "Jquery",
+    value: 80,
+},
+{
+    name: "Batsby",
+    value: 60,
+},
+{
+    name: "Redux",
+    value: 75,
+},
+{
+    name: "Material Ui",
+    value: 85,
+},
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
+    title: "Frontend Engineer",
+    description: "I'm a Frontend Developer that works mainly with React Batsby.",
+},
+{
+    title: "Drone Piloting",
+    description: "The responsibility of drone pilots to conduct safety tests, oversee vehicle performance, and assess drone systems’ capabilities.",
+},
+{
+    title: "Video Editing",
+    description: "Video Editors are generally responsible for editing and assembling recorded raw material into a suitable, finished product ready for broadcasting.",
+},
 ];
+
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    img: "https://user-images.githubusercontent.com/68134403/152302033-a9d85331-70a5-4840-ac2e-f038b4aea0b0.png",
+    desctiption: "E-commcerc Shop.",
+    link: "https://sofa-eshop.netlify.app/",
+},
+{
+    img: "https://pbs.twimg.com/media/F6EWsmiXMAAwNUQ?format=jpg&name=small",
+    desctiption: "SideHustle Project Google Homepage clone.",
+    link: "side-hustle-project.netlify.app/",
+},
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+{
+    img: "https://pbs.twimg.com/media/F6EeN4yXwAAfBh7?format=jpg&name=small",
+    desctiption: "Crypto Data Api.",
+    link: "https://crypto-data-api.netlify.app/",
+},
+
+
+{
+    img: "https://pbs.twimg.com/media/F6ElvyOWAAA7hdL?format=jpg&name=small",
+    desctiption: "Heavy-Equipment Rental.",
+    link: "https://heavy-equipment.netlify.app/",
+},
+
+{
+    img: "https://sound-sultan-biography.netlify.app/img%20/Sound-Sultan.jpeg",
+    desctiption: "Sound Sultan Biography.",
+    link: "sound-sultan-biography.netlify.app/",
+},
+
+{
+    img: "https://pbs.twimg.com/media/F6EcSppXoAAN_BM?format=jpg&name=small",
+    desctiption: "A Realtor Website.",
+    link: "https://ogudu-real-estate.netlify.app/",
+},
+
+
+
+{
+    img: "chrome-extension://bpconcjcammlapcogcnnelfmaeghhagj/edit.html",
+    desctiption: "A Female Gym Site.",
+    link: "https://female-gym-website.netlify.app/",
+},
+
 ];
 
+
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "ifaduolas@gmail.com",
+    YOUR_FONE: "(+234) 08024875563",
+    description: "I'm waiting for your calls . ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +138,13 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    link: "https://github.com/Ifaduolas",
+    facebook: "https://facebook.com/ifaduola sameo samuel",
+    linkedin: "https://linkedin.com/in/ifaduolas",
+    twitter: "https://twitter.com/sammy4riner",
+    discord: "https://discord.com/sammy4riner",
+    instagram: "https://instagram.com/sammy4riner",
+    twitch: "https://instagram.com/sammy4riner070",
 };
 export {
     meta,
