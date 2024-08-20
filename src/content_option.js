@@ -85,13 +85,13 @@ const dataportfolio = [{
     link: "https://sofa-eshop.netlify.app/",
 },
 {
-    img: "https://pbs.twimg.com/media/F6EWsmiXMAAwNUQ?format=jpg&name=small",
+    img: "https://app.netlify.com/sites/side-hustle-project/",
     desctiption: "SideHustle Project Google Homepage clone.",
     link: "side-hustle-project.netlify.app/",
 },
 
 {
-    img: "https://pbs.twimg.com/media/F6EeN4yXwAAfBh7?format=jpg&name=small",
+    img: "https://app.netlify.com/sites/crypto-data-api/",
     desctiption: "Crypto Data Api.",
     link: "https://crypto-data-api.netlify.app/",
 },
