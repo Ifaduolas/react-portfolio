@@ -98,7 +98,7 @@ const dataportfolio = [{
 
 
 {
-    img: "https://pbs.twimg.com/media/F6ElvyOWAAA7hdL?format=jpg&name=small",
+    img: "https://app.netlify.com/sites/heavy-equipment/",
     desctiption: "Heavy-Equipment Rental.",
     link: "https://heavy-equipment.netlify.app/",
 },
