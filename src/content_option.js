@@ -110,7 +110,7 @@ const dataportfolio = [{
 },
 
 {
-    img: "https://pbs.twimg.com/media/F6EcSppXoAAN_BM?format=jpg&name=small",
+    img: "https://app.netlify.com/sites/ogudu-real-estate/",
     desctiption: "A Realtor Website.",
     link: "https://ogudu-real-estate.netlify.app/",
 },
