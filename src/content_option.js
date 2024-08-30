@@ -91,14 +91,14 @@ const dataportfolio = [{
 },
 
 {
-    img: "https://app.netlify.com/sites/crypto-data-api/",
+    img: "https://d33wubrfki0l68.cloudfront.net/649dbc55708a7511980ee66d/screenshot_2023-06-29-17-16-55-0000.png",
     desctiption: "Crypto Data Api.",
     link: "https://crypto-data-api.netlify.app/",
 },
 
 
 {
-    img: "https://app.netlify.com/sites/heavy-equipment/",
+    img: "https://d33wubrfki0l68.cloudfront.net/64a9a1ec4bbc522065702c97/screenshot_2023-07-08-17-51-47-0000.png",
     desctiption: "Heavy-Equipment Rental.",
     link: "https://heavy-equipment.netlify.app/",
 },
@@ -110,7 +110,7 @@ const dataportfolio = [{
 },
 
 {
-    img: "https://app.netlify.com/sites/ogudu-real-estate/",
+    img: "https://d33wubrfki0l68.cloudfront.net/6458fd3ce9789a3b3ffa4f4a/screenshot_2023-05-08-13-47-48-0000.png",
     desctiption: "A Realtor Website.",
     link: "https://ogudu-real-estate.netlify.app/",
 },
@@ -118,9 +118,21 @@ const dataportfolio = [{
 
 
 {
-    img: "https://app.netlify.com/sites/female-gym-website/",
+    img: "https://d33wubrfki0l68.cloudfront.net/643e9153da80665b06b006bb/screenshot_2023-04-18-12-48-21-0000.png",
     desctiption: "A Female Gym Site.",
     link: "https://female-gym-website.netlify.app/",
+},
+
+{
+    img: "https://rentaling-drones-f5jmdec1m-samuels-projects-3560e82c.vercel.app",
+    desctiption: "Drone Rentaling App.",
+    link: "https://rentaling-drones.vercel.app/",
+},
+
+{
+    img: "https://d33wubrfki0l68.cloudfront.net/66cf712b43217a0d505cd40e/screenshot_2024-08-28-18-50-24-0000.webp",
+    desctiption: "Insurance-claim.",
+    link: "https://insurance-sam.netlify.app/",
 },
 
 ];
